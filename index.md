@@ -1,4 +1,4 @@
-# Amir Tohidi
+## Amir Tohidi
 
 I am a Ph.D. candidate in the [*Social and Engineering Systems*](https://idss.mit.edu/academics/ses_doc/) program at the [**MIT Institute for Data Systems and Society**](https://idss.mit.edu).
 I am also pursuing a Ph.D. in *Statistics* at the [**Interdisciplinary Program for Statistics**](https://stat.mit.edu/academics/idps/), and affiliated with the [**Laboratory for Information and Decision Systems**](https://lids.mit.edu). 
