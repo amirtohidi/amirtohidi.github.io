@@ -28,6 +28,9 @@ external:                  # shows a footer with social links - for available ic
   - {title: Twitter, url: "https://twitter.com/Amir__Tohidi"}
   - {title: LinkedIn, url: "https://www.linkedin.com/in/amir-tohidi-kalorazi-1b099a70/"}
 
+relative_links:
+  enabled:true
+  collections:false
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
