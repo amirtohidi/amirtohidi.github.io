@@ -7,7 +7,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
-
+ 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
@@ -16,13 +16,18 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: Home}
+  - {file: "index.html", title: CV}
+  - {file: "index.html", title: Research}
+  - {file: "index.html", title: Teaching}
+  - {file: "README.md", About me}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, url: "mailto:atohidi@mit.edu"}
+  - {title: Github, url: "https:https://github.com/amirtohidi"}
+  - {title: Twitter, url: "https://twitter.com/Amir__Tohidi"}
+  - {title: LinkedIn, url: "https://www.linkedin.com/in/amir-tohidi-kalorazi-1b099a70/"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
