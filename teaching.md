@@ -1,6 +1,4 @@
 
-## Teaching Experience
-
 ### Massachusetts Institute of Technology (MIT)
 
 #### During my PhD, I worked as a TA at the Sloan School of Management for: 
