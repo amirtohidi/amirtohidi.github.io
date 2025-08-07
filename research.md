@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-## Research Overview
-
 As a computational social scientist, I study how people interact with information and how these interactions shape public opinion and behavior. My work combines causal inference, machine learning, and experimental design to examine modern information systems—especially the role of media bias. I use large language models (LLMs) to detect and quantify media bias at scale and to design experiments that evaluate its effects on public perception.
 
 ---
