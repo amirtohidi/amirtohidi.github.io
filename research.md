@@ -58,7 +58,7 @@ As a computational social scientist, I study how people interact with informatio
 ## Working Papers
 
 **Language Models Reveal the Persuasive Power of Biased News**  
-*_**Amir Tohidi**, Samar Haider, Duncan Watts_*
+*<strong>Amir Tohidi</strong>, Samar Haider, Duncan Watts*  
 
 Mainstream media, with its broad reach, plays a central role in shaping public opinion and thus warrants close scrutiny. Subtle forms of media bias—such as selective fact presentation and tone—can meaningfully influence public attitudes, even when reporting remains factually accurate.  
 We introduce a novel framework that leverages large language models (LLMs) to generate synthetic news articles by systematically varying the selection and tone of content while holding factual accuracy constant.  
