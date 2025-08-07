@@ -21,7 +21,7 @@ As a computational social scientist, I study how people interact with informatio
   [Link](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgaf084/8082923)
 
 - **Designing and Implementing a Tool for Real-Time Selection and Framing Bias Analysis in News Coverage**  
-  *Forthcoming, ACM Conference on Human Factors in Computing Systems (CHI)*  
+  * ACM Conference on Human Factors in Computing Systems (CHI)*  
   Jenny Wang, Samar Haider, **Amir Tohidi**, Anushkaa Gupta, Yuxuan Zhang, Chris Callison-Burch, David Rothschild, Duncan Watts  
   [Link](https://arxiv.org/abs/2502.06009)
 
@@ -38,10 +38,11 @@ As a computational social scientist, I study how people interact with informatio
 ---
 
 ## Conferences and Seminars
-
-- INFORMS Annual Meeting, Phoenix, Oct 2023  
+- IC2S2, Norrköping, Sweden, July, 2025
+- Social and Political Economy Conference: Polarization in the Age of AI and the Post-Truth Era, Johs Hopkins University, May 2025
 - Conference on Digital Experimentation at MIT (CODE), Oct 2024  
-- IC2S2, Philadelphia, July 2024  
+- IC2S2, Philadelphia, July 2024
+- INFORMS Annual Meeting, Phoenix, Oct 2023  
 - Marketing Colloquia, Wharton School, Nov 2022  
 - INFORMS Annual Meeting, Indiana, Oct 2022  
 - Marketing Seminar, MIT, Feb 2022  
